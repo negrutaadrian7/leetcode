@@ -1,3 +1,5 @@
+package Arrays;
+
 public class MaximumSubarray {
     public int maxSubArray(int[] nums) {
         int maxSub = nums[0];

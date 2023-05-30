@@ -1,3 +1,5 @@
+package Arrays;
+
 public class FindMin {
     public int findMin(int[] nums) {
         int element = nums[0];
